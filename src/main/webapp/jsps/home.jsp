@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Landmark Technologies.</h1>
-<h2 align="center"> We are supporting all kinds of projects. 
+<h2 align="center"> We are in support of all kinds of projects. 
 	Landmark Technologies is a software development company. 
 	Class26 will run from October 2, 2021.
 	The King Jesus is in our midst. 
